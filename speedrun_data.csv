@@ -267,6 +267,7 @@ Date,Submitted,Verified,Primary_t,Realtime_t,Category_Name,Category_Type
 2023-12-24,2023-12-24T05:38:48Z,verified,1255,1255,Any%,per-game
 2024-01-07,2024-01-07T02:03:27Z,verified,1441,1441,Any%,per-game
 2024-02-24,2024-02-24T05:15:52Z,verified,1229,1229,Any%,per-game
+2024-03-10,2024-02-25T22:33:17Z,verified,1204,1204,Any%,per-game
 2022-03-22,2022-03-25T06:10:47Z,verified,1477,1477,Any% Unrestricted,per-game
 2022-03-25,2022-03-26T21:52:07Z,verified,1417,1417,Any% Unrestricted,per-game
 2022-04-04,2022-04-04T13:28:32Z,verified,1175,1175,Any% Unrestricted,per-game
@@ -635,6 +636,10 @@ Date,Submitted,Verified,Primary_t,Realtime_t,Category_Name,Category_Type
 2024-02-10,2024-02-11T04:44:28Z,verified,9386,9386,Any% Glitchless,per-game
 2024-02-15,2024-02-15T21:26:23Z,verified,3476,3476,Any% Glitchless,per-game
 2024-02-17,2024-02-17T14:58:26Z,verified,4225,4225,Any% Glitchless,per-game
+2024-02-22,2024-02-23T18:02:30Z,verified,6334,6334,Any% Glitchless,per-game
+2024-03-01,2024-03-02T07:40:18Z,verified,3710,3710,Any% Glitchless,per-game
+2024-03-03,2024-03-03T06:34:55Z,verified,4249,4249,Any% Glitchless,per-game
+2024-03-04,2024-03-04T10:53:58Z,verified,3409,3409,Any% Glitchless,per-game
 2022-03-20,2022-03-25T15:05:08Z,verified,10114,10114,All Remembrances,per-game
 2022-03-26,2022-03-25T15:37:13Z,verified,8692,8692,All Remembrances,per-game
 2022-03-26,2022-03-25T23:18:22Z,verified,7829,7829,All Remembrances,per-game

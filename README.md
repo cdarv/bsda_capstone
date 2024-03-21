@@ -28,6 +28,8 @@ This project includes several files that are used for different purposes:
 8. Metrics
 9. Jackknife Resampling
 10. Graphing Jackknife Confidence Interval
+11. Z-score Calculation and Graph
+12. P-value Calculation and Graph
 
 ### 1. Game Selection
 'Elden Ring' is selected for analysis. The game can be changed, using the url of that game's page. For this example: `https://www.speedrun.com/eldenring`
@@ -65,4 +67,10 @@ Exploratory data analysis is performed on metrics such as the number of runs to 
 Jackknife resampling is performed to determine the confidence level of the efficiency point.
 
 ### 10. Graphing Jackknife Confidence Interval
-We graph the Jackknife resampled efficiency points and the 99% confidence interval using the `jackknife_efficiency_graph(jackknife_efficiency_points, ci_lower_date, ci_upper_date, elbow_date)` function.
+Graphing the Jackknife resampled efficiency points and the 99% confidence interval using the `jackknife_efficiency_graph(jackknife_efficiency_points, ci_lower_date, ci_upper_date, elbow_date)` function.
+
+### 11. Z-score Calculation and Graph
+Calculating the Z-score off of the jacknife efficiency points, and plotting them against a standard deviation
+
+### 12. P-value Calculation and Graph
+Calculating the P-values based on z-score and plotting them on a standard deviation.
